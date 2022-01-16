@@ -1,6 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/v4',
   siteMetadata: {
     title: 'Sankul Rawat',
     description:
@@ -8,7 +9,6 @@ module.exports = {
     siteUrl: 'https://sankulrawat.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@sankul28',
-    pathPrefix: '/v4',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
