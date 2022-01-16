@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sankulrawat.com/sitemap.xml
+Host: https://sankulrawat.com
