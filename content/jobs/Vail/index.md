@@ -2,6 +2,7 @@
 date: '2019-06-01'
 title: 'Platform (DevOps) Engineer & Platform (DevOps) Engineer Intern'
 company: 'Vail Systems'
+symbol: 'Vailsys'
 location: 'Chicago, IL'
 range: 'Jun 2019 - Mar 2021 & Aug 2018 - Dec 2018'
 url: 'https://vailsys.com/'

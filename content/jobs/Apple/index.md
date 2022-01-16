@@ -2,6 +2,7 @@
 date: '2021-03-20'
 title: 'DevOps Engineer'
 company: 'Apple'
+symbol: 'Apple'
 location: 'Austin, TX'
 range: 'March 2021 - Present'
 url: 'https://www.apple.com/'
